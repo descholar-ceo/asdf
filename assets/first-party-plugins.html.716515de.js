@@ -1,0 +1,1 @@
+const t={key:"v-a3cb91a0",path:"/pt-br/contribute/first-party-plugins.html",title:"First-Party Plugins",lang:"pt-br",frontmatter:{},excerpt:"",headers:[],filePathRelative:"pt-br/contribute/first-party-plugins.md",git:{updatedTime:1627110843e3,contributors:[]}};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-82917424",path:"/pt-br/learn-more/thanks.html",title:"Créditos",lang:"pt-br",frontmatter:{},excerpt:"",headers:[{level:2,title:"Mantenedores",slug:"mantenedores",children:[]},{level:2,title:"Contribuidores",slug:"contribuidores",children:[]}],filePathRelative:"pt-br/learn-more/thanks.md",git:{updatedTime:1627110843e3,contributors:[]}};export{e as data};

@@ -1,0 +1,1 @@
+const a={key:"v-18b8a6b2",path:"/zh-hans/manage/commands.html",title:"所有命令",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"zh-hans/manage/commands.md",git:{updatedTime:1643288544e3,contributors:[]}};export{a as data};

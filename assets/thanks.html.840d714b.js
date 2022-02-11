@@ -1,0 +1,1 @@
+const e={key:"v-7ddf402a",path:"/zh-hans/learn-more/thanks.html",title:"致谢",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"作者",slug:"作者",children:[]},{level:2,title:"维护者",slug:"维护者",children:[]},{level:2,title:"贡献者",slug:"贡献者",children:[]}],filePathRelative:"zh-hans/learn-more/thanks.md",git:{updatedTime:1643288544e3,contributors:[]}};export{e as data};

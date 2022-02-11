@@ -1,0 +1,1 @@
+const t={key:"v-47504a3d",path:"/contribute/github-actions.html",title:"GitHub Actions",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"contribute/github-actions.md",git:{updatedTime:1627017981e3,contributors:[]}};export{t as data};

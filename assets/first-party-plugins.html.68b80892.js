@@ -1,0 +1,1 @@
+const t={key:"v-e5988318",path:"/zh-hans/contribute/first-party-plugins.html",title:"官方插件",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"zh-hans/contribute/first-party-plugins.md",git:{updatedTime:1643288544e3,contributors:[]}};export{t as data};
